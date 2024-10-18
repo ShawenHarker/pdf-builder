@@ -1,0 +1,19 @@
+.gradient-separator {
+    width: 100%;
+    background: linear-gradient(90deg, #9FCD56FF, #3E6FB6FF, #012839FF);
+}
+
+.main-background-image {
+    background-image: url('../images/disc.svg');
+    background-repeat: no-repeat;
+    background-size: 100%;
+    width: 500px;
+    height: 500px;
+}
+
+.dot {
+    background-color: #002839;
+    border-radius: 50%;
+    width: 20px;
+    height: 20px;
+}
