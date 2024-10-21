@@ -65,9 +65,4 @@ const findDotPlacement = () => {
     dot.style.left = `${Math.floor(Math.round(pointX))}px`;
 };
 
-const downloadPDF = () => {
-
-};
-
 findDotPlacement();
-downloadPDF();

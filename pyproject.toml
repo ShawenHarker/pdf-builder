@@ -9,6 +9,7 @@ readme = "README.md"
 python = "^3.12"
 tina4-python = "^0.2.22"
 jurigged = "^0.6.0"
+html2image = "^2.0.5"
 
 
 [build-system]
